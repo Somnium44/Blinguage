@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Lato";
+}
+.container{
+    margin: auto;
+    margin-top: 40px;
+}
+.logo{
+    width: 130px;
+    height: 34px;
+    margin-left: 140px;
+}
+
+header{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+.headeritems
+{
+width: 640px;
+}
+
+.headeritems ul{
+    margin-right: 140px;
+    font-weight: bolder;
+    font-size: 15px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+
+.headeritems li:nth-child(4){
+border: 2px black solid;
+border-radius: 10px;
+padding: 10px;
+margin-top: -13px;
+
+}
+.headeritems i{
+    margin-left: 10px;
+}
+.Leftsection{
+    display: flex;
+    justify-content: space-between;
+}
+.Leftsection h1{
+    font-size: 60px;
+    width: 417px;
+    margin-bottom: 0;
+    
+}
+.Title{
+    animation-name: Title;
+animation-duration: 3s;
+animation-timing-function: ease-in-out;
+}
+@keyframes Title{
+from{
+    opacity: 0;}
+to{
+    opacity: 1;
+}
+}
+.Leftsection p{
+    width: 282px;
+
+}
+.Leftsection button{
+    margin-top: 30px;
+    outline: none;
+    border: 10px navy solid;
+    padding-left:10px ;
+    padding-right:10px;
+    border-radius: 10px;
+    background-color: navy;
+    color: rgb(253, 234, 198);
+    font-size: 12px;
+    
+}
+.Leftsection button:hover{
+    opacity: 0.9;
+    transform: scale(1.01);
+}
+.principalimage{
+    width: 700px;
+    height: 529px;
+    margin-top: -99px;
+}
+.bubble{
+    width: 78px;
+    height: 118px;
+    margin-top: 450px;
+    margin-right: 70px;
+}
+.loop{
+    width:40px ;
+    height:38px;
+}
+.headset{
+    width:40px ;
+    height:38px;
+}
+.book{
+    width:40px ;
+    height:38px;
+}
+footer{
+    margin-left: 38px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+   
+}
+
+footer p{
+    width: 190px;
+    text-align: left;
+}
