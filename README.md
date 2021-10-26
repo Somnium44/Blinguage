@@ -1,3 +1,5 @@
 # Blinguage
 Cuberto's project on Dribbble
-![gif](https://user-images.githubusercontent.com/71699024/138864253-c3e125dd-6709-4933-abdb-42436b37fd5b.gif)
+
+https://user-images.githubusercontent.com/71699024/138864371-baf80567-f8c0-4fb9-bb04-965ab485d2bd.mp4
+
